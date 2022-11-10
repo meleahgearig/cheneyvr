@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.15" apprev="18116" start="node1">
+  <panorama id="node1">
+    <input width="2046" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400" height="2046" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2046" preload="0" height="2046" predecode="0"/>
+      <level width="1023" preload="0" height="1023" predecode="0"/>
+      <level width="511" preload="0" height="511" predecode="0"/>
+      <level width="255" preload="1" height="255" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-43">
+      <start fov="77.3492" tilt="-2.70826" projection="4" pan="-0.0615429"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata tags="Church" heading="-43" datetime="10/30/22 5:10 PM" copyright="" source="" customnodeid="" title="" nodeid="node1" description="" comment="" author="" info="" latitude="40.53927245" longitude="-112.00874537"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" borderalpha="1" textalpha="1" enabled="1" height="20" borderradius="1" wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="9.61208" target="$fwd" tilt="-1.96" title="" url="{node2}" description="" id="Point01" pan="-329.245" skinid="ht_node"/>
+      <hotspot target="" tilt="4.79" title="Melchizedek Priesthood Restoration" url="images/priesthood.png" description="" id="Point02" pan="-113.82" skinid="ht_image"/>
+      <hotspot target="" tilt="3.73" title="The Second Coming" url="images/secondcoming.png" description="" id="Point03" pan="-12.27" skinid="ht_image"/>
+    </hotspots>
+    <media>
+      <sound tilt="2.400" ambientlevel="0.100" field="90.000" startmutedmobile="0" mode="3" loop="1" id="Element01" tiltsize="10.000" pan="-324.180" level="1.000" pansize="10.000" nodechangekeep="0">
+        <source url="media/2001-01-1650-abide-with-me-tis-eventide-instrumental-192k-eng.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" enabled="1" softedge="0" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomout="0"/>
+    <autorotate startloaded="0" enabled="1" nodefilter="" useanimation="0" nodedelay="0.00" delay="5.00" returntohorizon="0.000" speed="0.050" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" invertwheel="0" simulatemass="1" invertcontrol="1" contextprojections="0" contextvr="1" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="2046" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400" height="2046" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2046" preload="0" height="2046" predecode="0"/>
+      <level width="1023" preload="0" height="1023" predecode="0"/>
+      <level width="511" preload="0" height="511" predecode="0"/>
+      <level width="255" preload="1" height="255" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-120">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata tags="Church" heading="-120" datetime="10/30/22 5:15 PM" copyright="" source="" customnodeid="" title="" nodeid="node2" description="" comment="" author="" info="" latitude="40.53934074" longitude="-112.00881511"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" borderalpha="1" textalpha="1" enabled="1" height="20" borderradius="1" wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="9.61208" target="$fwd" tilt="-2.25" title="" url="{node1}" description="" id="Point01" pan="-270.925" skinid="ht_node"/>
+      <hotspot distance="15.9318" target="$fwd" tilt="-3.34" title="" url="{node3}" description="" id="Point02" pan="-180.077" skinid="ht_node"/>
+      <hotspot distance="11.9462" target="$fwd" tilt="-2.44" title="" url="{node4}" description="" id="Point03" pan="-88.5001" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <sound tilt="4.390" ambientlevel="0.100" field="90.000" startmutedmobile="0" mode="3" loop="1" id="Element01" tiltsize="10.000" pan="-0.370" level="1.000" pansize="10.000" nodechangekeep="0">
+        <source url="media/2001-01-1650-abide-with-me-tis-eventide-instrumental-192k-eng.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" enabled="1" softedge="0" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomout="0"/>
+    <autorotate startloaded="0" enabled="1" nodefilter="" useanimation="0" nodedelay="0.00" delay="5.00" returntohorizon="0.000" speed="0.050" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" invertwheel="0" simulatemass="1" invertcontrol="1" contextprojections="0" contextvr="1" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="2056" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400" height="2056" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2056" preload="0" height="2056" predecode="0"/>
+      <level width="1028" preload="0" height="1028" predecode="0"/>
+      <level width="514" preload="0" height="514" predecode="0"/>
+      <level width="257" preload="1" height="257" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-129">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata tags="Church" heading="-129" datetime="10/30/22 5:18 PM" copyright="" source="" customnodeid="" title="" nodeid="node3" description="" comment="" author="" info="" latitude="40.53943246" longitude="-112.00867027"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" borderalpha="1" textalpha="1" enabled="1" height="20" borderradius="1" wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="15.9318" target="$fwd" tilt="-3.3" title="" url="{node2}" description="" id="Point02" pan="3.71335" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <video width="1920" handcursor="0" stretch="1.000" loop="1" height="1080" rotx="4.000" id="Element01" pansize="10.000" roty="0.000" field="90.000" pan="-176.030" mode="3" level="1.000" ambientlevel="0.100" fov="12.450" tiltsize="10.000" nodechangekeep="0" tilt="0.030" startmutedmobile="0" rotz="0.000" clickmode="2">
+        <source url="media/2019-04-0010-an-invitation-to-come-unto-christ-1080p-eng.mp4"/>
+      </video>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" enabled="1" softedge="0" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomout="0"/>
+    <autorotate startloaded="0" enabled="1" nodefilter="" useanimation="0" nodedelay="0.00" delay="5.00" returntohorizon="0.000" speed="0.050" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" invertwheel="0" simulatemass="1" invertcontrol="1" contextprojections="0" contextvr="1" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="2044" levelingroll="0" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400" height="2044" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2044" preload="0" height="2044" predecode="0"/>
+      <level width="1022" preload="0" height="1022" predecode="0"/>
+      <level width="511" preload="0" height="511" predecode="0"/>
+      <level width="255" preload="1" height="255" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-215">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata tags="Church" heading="-215" datetime="10/30/22 5:34 PM" copyright="" source="" customnodeid="" title="" nodeid="node4" description="" comment="" author="" info="" latitude="40.53943144" longitude="-112.00889088"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" textcolor="0x000000" borderalpha="1" textalpha="1" enabled="1" height="20" borderradius="1" wordwrap="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="11.9462" target="$fwd" tilt="-2.87" title="" url="{node2}" description="" id="Point02" pan="-388.32" skinid="ht_node"/>
+      <hotspot target="" tilt="6.51" title="Oquirrh Mountain Temple" url="images/oquirrh.png" description="" id="Point01" pan="-265.62" skinid="ht_image"/>
+      <hotspot target="" tilt="0.64" title="Jesus Christ" url="images/jesuschrist.png" description="" id="Point03" pan="-10.39" skinid="ht_image"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.810" ambientlevel="0.100" field="90.000" startmutedmobile="0" mode="3" loop="1" id="Element01" tiltsize="10.000" pan="-33.770" level="1.000" pansize="10.000" nodechangekeep="0">
+        <source url="media/2001-01-1650-abide-with-me-tis-eventide-instrumental-192k-eng.mp3"/>
+      </sound>
+    </media>
+    <transition zoomafterinfov="90" type="crossdissolve" zoomspeed="2" enabled="1" softedge="0" zoomin="0" zoomafteroutfov="20" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomout="0"/>
+    <autorotate startloaded="0" enabled="1" nodefilter="" useanimation="0" nodedelay="0.00" delay="5.00" returntohorizon="0.000" speed="0.050" noderandom="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" lockedmouse="0" invertwheel="0" simulatemass="1" invertcontrol="1" contextprojections="0" contextvr="1" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" heading="0" datetime="" copyright="" source="" customnodeid="" title="" nodeid="master" description="" comment="" author="" info="" latitude="" longitude=""/>
+  </masternode>
+</tour>
