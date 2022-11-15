@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<xml version="1.0" encoding="UTF-8">
 <vrobject>
   <input states="1" windowheight="750" width="750" imagepath="images" preview="4" windowwidth="750" height="750" preload="1" columns="24" rows="4" fileextension="png"/>
   <control simulatemass="1" lockedmouse="0" swapxy="0" lockedkeyboard="0" dblclickfullscreen="0" revx="0" invertwheel="0" revy="1" wrapx="1" wrapy="0" trapwheel="1" automovemode="1" lockedwheel="0" speedwheel="1.000" controller="1" sensitivity="10"/>
