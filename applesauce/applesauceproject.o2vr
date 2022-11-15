@@ -411,7 +411,7 @@
     <output>
       <htmlcss>
         <html>
-          <filename>applesauceproject.html</filename>
+          <filename>index.html</filename>
           <enabled>1</enabled>
           <template>normal.ggt</template>
           <values>
